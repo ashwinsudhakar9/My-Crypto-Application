@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/My Projects/Android Projects/MyCryptoApplication/app/src/main/res/drawable-v24/ic_arrow_back_toobar.xml" value="0.18175895765472314" />
+        <entry key="..\:/My Projects/Android Projects/MyCryptoApplication/app/src/main/res/drawable/ic_arrow_up.xml" value="0.18175895765472314" />
+        <entry key="..\:/My Projects/Android Projects/MyCryptoApplication/app/src/main/res/drawable/ic_round_image_24.xml" value="0.25462962962962965" />
+        <entry key="..\:/My Projects/Android Projects/MyCryptoApplication/app/src/main/res/layout/activity_details.xml" value="0.2" />
+        <entry key="..\:/My Projects/Android Projects/MyCryptoApplication/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/My Projects/Android Projects/MyCryptoApplication/app/src/main/res/layout/activity_watchlist.xml" value="0.17335526315789473" />
+        <entry key="..\:/My Projects/Android Projects/MyCryptoApplication/app/src/main/res/layout/layout_error.xml" value="0.16" />
+        <entry key="..\:/My Projects/Android Projects/MyCryptoApplication/app/src/main/res/layout/layout_loading.xml" value="0.1" />
+        <entry key="..\:/My Projects/Android Projects/MyCryptoApplication/app/src/main/res/layout/recycler_list_item.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

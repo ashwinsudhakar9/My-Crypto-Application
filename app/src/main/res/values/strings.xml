@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Crypto Application</string>
+
+    <!--    API Errors-->
+    <string name="msg_api_error_server_not_connected">Could not reach our server, please try again</string>
+    <string name="msg_api_error_device_not_connected_to_network">Your device is not connected to internet.please try again with active internet connection</string>
+    <string name="msg_api_error_bad_request">That was a bad request please try again…</string>
+    <string name="msg_api_error_parsing_data">There was an error parsing data…</string>
+    <string name="msg_api_error_device_out_of_memory">Device out of memory</string>
+    <string name="msg_api_error_auth_error">Failed to authenticate user at the server, please contact support</string>
+    <string name="msg_api_error_internal_server">Something went wrong, please try again</string>
+    <string name="msg_api_error_timedout">Your connection has timed out, please try again</string>
+    <string name="msg_api_error_unknown">An unknown error occurred during the operation, please try again</string>
+
+    <string name="ouch_something_went_wrong">Ouch! Something Went Wrong</string>
+    <string name="there_was_an_error_with_the_request_please_try_again_or_contact_our_support_team">There was an error with the request, please try again or contact our support team</string>
+    <string name="retry">Retry</string>
+    <string name="oops">Oops! Something went wrong...!</string>
+    <string name="dialog_button_cancel">Cancel</string>
+</resources>
